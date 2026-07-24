@@ -1,0 +1,14 @@
+{
+ "profile": {
+  "handle": "kitty_find",
+  "name": "키틴자추천템",
+  "bio": "헬로키티·산리오 덕후가 고른 진짜 예쁜 굿즈만.\n영상 속 번호를 눌러 최저가로 확인하세요.",
+  "youtube": "https://youtube.com/@kitty_find",
+  "theme": {
+   "ac": "#F06292",
+   "ac_d": "#C2185B",
+   "ac_soft": "#FDE7F0"
+  }
+ },
+ "videos": []
+}
